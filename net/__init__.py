@@ -1,6 +1,6 @@
 #!/bin/python3
 
 #> Package >/
-__all__ = ('fetch',)
+__all__ = ('fetch', 'pattern')
 
-from . import fetch
+from . import fetch, pattern
