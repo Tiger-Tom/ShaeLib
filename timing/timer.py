@@ -6,7 +6,7 @@ import functools
 # Types
 import typing
 from abc import ABC, abstractmethod
-from .locked_resource import LockedResource, locked
+from ..concurrency.locked_resource import LockedResource, locked
 #</Imports
 
 #> Header >/
